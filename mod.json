@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+	"_QPVersion": "0.1.1",
+	"name": "AniPic",
+	"id": "AniPic",
+	"author": "WaffleTheCool#8942",
+	"version": "0.1.0",
+	"packageId": "com.beatgames.beatsaber",
+	"packageVersion": "1.21.0",
+	"description": "Ever get anger that you cant beat a map? Then look at animal pictures until you feel calm :)",
+	"dependencies": [],
+	"modFiles": [
+		"libAniPic.so"
+	],
+	"libraryFiles": [
+		"libbeatsaber-hook_3_8_1.so"
+	],
+	"fileCopies": []
+}
